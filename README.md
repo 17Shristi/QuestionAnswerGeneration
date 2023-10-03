@@ -23,20 +23,20 @@ The different types of questions answers generated are as follows:
 
 Fill in the Blanks
 
-![](https://hackmd.io/_uploads/SJo7S2Yxp.png)
+<img src="images/fill1.png" alt="image" />
 
 
 Match The Following
                          
-![](https://hackmd.io/_uploads/S1PNr3teT.png)
+<img src="images/match.png" alt="image" />
 
 
 True False
 
 
 
-![](https://hackmd.io/_uploads/rywrBhFxT.png)
-![](https://hackmd.io/_uploads/BkTBB3Kla.png)
+<img src="images/false.png" alt="image" />
+<img src="images/true.png" alt="image" />
 
 
 
